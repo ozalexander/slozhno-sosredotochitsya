@@ -1,13 +1,14 @@
 .page {
   background-color: var(--accent-color);
+  background-image: url(/images/cover-image-dark.png);
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
 }
 
 .header {
-  background-image: url(/images/cover-image-dark.png);
   min-block-size: 668px;
-  background-size: cover;
   position: relative;
-  background-position: center;
   overflow: auto;
   transition: 1s;
   padding: 10px;

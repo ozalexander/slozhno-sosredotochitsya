@@ -1,4 +1,5 @@
 .page.theme_light {
+  background-image: none;
   --accent-color: #fff1f7;
   --font-color: #353430;
   --title-color: #ff8dcb;
@@ -7,7 +8,7 @@
   --decor-color: #353430;
   --section: #353430;
   --hover-color: rgba(50, 49, 45, 0.4);
-
+  
   .camera {
     display: none;
   }
@@ -32,6 +33,10 @@
     --section: #353430;
     --hover-color: rgba(50, 49, 45, 0.4);
     
+    .page {
+      background-image: none;
+    }
+
     .camera {
       display: none;
     }
