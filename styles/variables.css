@@ -1,10 +1,10 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
 :root {
   --accent-color: #000028;
   --font-color: #F1B2CE;
   --title-color: #FF0070;
   --title-neon-color: #DB00FF;
+  --dark-title: #000028;
+  --decor-color: #FF0070;
+  --section: #FF0070;
+  --hover-color: rgba(255, 0, 112, 0.40);
 }
