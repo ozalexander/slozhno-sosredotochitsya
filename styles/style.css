@@ -372,6 +372,10 @@
     inline-size: 315px;
   }
 
+  .image-section {
+    min-block-size: 1045px;
+  }
+
   .footer {
     margin-block-start: 60px;
     min-block-size: 768px;
