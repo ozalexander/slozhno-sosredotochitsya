@@ -1,5 +1,5 @@
 .page.theme_light {
-  background-image: none;
+  background-image: url(/images/cover-image-light.png);
   --accent-color: #fff1f7;
   --font-color: #353430;
   --title-color: #ff8dcb;
@@ -11,10 +11,6 @@
   
   .camera {
     display: none;
-  }
-
-  .header {
-    background-image: none;
   }
 
   .title-bottom {
@@ -34,15 +30,11 @@
     --hover-color: rgba(50, 49, 45, 0.4);
     
     .page {
-      background-image: none;
+      background-image: url(/images/cover-image-light.png);
     }
 
     .camera {
       display: none;
-    }
-
-    .header {
-      background-image: none;
     }
 
     .title-bottom {
