@@ -1,10 +1,10 @@
 :root {
   --accent-color: #000028;
-  --font-color: #F1B2CE;
-  --title-color: #FF0070;
-  --title-neon-color: #DB00FF;
+  --font-color: #f1b2ce;
+  --title-color: #ff0070;
+  --title-neon-color: #db00ff;
   --dark-title: #000028;
-  --decor-color: #FF0070;
-  --section: #FF0070;
-  --hover-color: rgba(255, 0, 112, 0.40);
+  --decor-color: #ff0070;
+  --section: #ff0070;
+  --hover-color: rgba(255, 0, 112, 0.4);
 }

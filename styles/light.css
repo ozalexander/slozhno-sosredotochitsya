@@ -2,22 +2,22 @@
   --accent-color: #fff1f7;
   --font-color: #353430;
   --title-color: #ff8dcb;
-  --title-neon-color: #FFC2E6;
+  --title-neon-color: #ffc2e6;
   --dark-title: #353430;
   --decor-color: #353430;
   --section: #353430;
-  --hover-color: rgba(50, 49, 45, 0.40);
-  
+  --hover-color: rgba(50, 49, 45, 0.4);
+
   .camera {
     display: none;
   }
-  
+
   .header {
     background-image: none;
   }
 
   .title-bottom {
-    text-shadow: 2px 2px 0px #FF0070;
+    text-shadow: 2px 2px 0px #ff0070;
   }
 }
 
@@ -26,19 +26,22 @@
     --accent-color: #fff1f7;
     --font-color: #353430;
     --title-color: #ff8dcb;
-    --title-neon-color: #FFC2E6;
+    --title-neon-color: #ffc2e6;
     --dark-title: #353430;
     --decor-color: #353430;
     --section: #353430;
-    --hover-color: rgba(50, 49, 45, 0.40);
+    --hover-color: rgba(50, 49, 45, 0.4);
+    
     .camera {
       display: none;
     }
+
     .header {
       background-image: none;
     }
-    
+
     .title-bottom {
-      text-shadow: 2px 2px 0px #FF0070;
+      text-shadow: 2px 2px 0px #ff0070;
     }
+  }
 }
