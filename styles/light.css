@@ -8,14 +8,10 @@
   --decor-color: #353430;
   --section: #353430;
   --hover-color: rgba(50, 49, 45, 0.4);
-  }
-
-.video {
+  
+  .video {
   display: none;
-}
-
-.title-bottom {
-    text-shadow: 2px 2px 0px #ff0070;
+  }
 }
 
 @media (prefers-color-scheme: light) {
@@ -35,9 +31,5 @@
   
   .video {
     display: none;
-  }
-
-  .title-bottom {
-    text-shadow: 2px 2px 0px #ff0070;
   }
 }

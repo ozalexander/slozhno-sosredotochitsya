@@ -9,4 +9,8 @@
   --decor-color: #ff0070;
   --section: #ff0070;
   --hover-color: rgba(255, 0, 112, 0.4);
+  
+  .video {
+    display: block;
+    }
 }

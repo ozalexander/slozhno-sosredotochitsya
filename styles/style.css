@@ -124,7 +124,7 @@
 .section__title {
   color: var(--section);
   font-size: inherit;
-  font-weight: 700 !important;
+  font-weight: 700;
   line-height: inherit;
 }
 
@@ -230,11 +230,12 @@
   align-items: center;
   position: relative;
   block-size: 100vh;
-  text-shadow: 2px 2px 0px #ff0070;
   margin-block-start: 40px;
+  min-block-size: 668px;
 }
 
 .title-bottom {
+  text-shadow: 2px 2px 0px #ff0070;
   margin-block-start: 0;
 }
 
