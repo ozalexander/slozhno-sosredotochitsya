@@ -1,4 +1,6 @@
 .page.theme_dark {
+  background-color: var(--accent-color);
+  background-image: url(../images/cover-image-dark.png);
   --accent-color: #000028;
   --font-color: #f1b2ce;
   --title-color: #ff0070;
